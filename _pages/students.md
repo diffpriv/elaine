@@ -12,20 +12,35 @@ Current Students
 <br> 
 <b>Ph.D. students</b>
 
+<ul>
+<li>
 Benjamin Chan (Cornell, co-advised with Rafael Pass)
+</li>
 
+<li>
 Yanyi Liu (Cornell, co-advised with Rafael Pass) 
+</li>
 
+<li>
 Mingxun Zhou (CMU, co-advised with Giulia Fanti)
+</li>
 
+<li>
 Hao Chung (CMU) 
+</li>
 
+<li>
 Nikhil Vanjani (CMU)
+</li>
 
+<li>
 Rose Silver (CMU) 
+</li>
 
+<li>
 Tianyao Gu (CMU)
-
+</li>
+</ul>
 
 <b> On leave </b>
 
