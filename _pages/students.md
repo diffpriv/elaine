@@ -3,6 +3,9 @@ title: "Students"
 permalink: /students/
 ---
 
+I am fortunate to have worked with a group of amazing students.  
+
+
 Current Students
 ======
 
@@ -26,6 +29,7 @@ Postdocs
 ------
 Ashrujit Ghoshal
 Elisaweta Masserova
+
 
 Past students
 ======
