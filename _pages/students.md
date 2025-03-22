@@ -50,17 +50,34 @@ Tianyao Gu (CMU)
 
 <b> On leave </b>
 
-Andrew Park (CMU, co-advised with Wenting Zheng, on leave in MongoDB)
+<ul>
+<li>
+<a href="https://andyp223.github.io/">
+Andrew Park</a> (CMU, co-advised with Wenting Zheng, on leave in MongoDB)
+</li>
 
+<li>
 Afonso Tinoco (CMU, on leave in Oblivious Labs)
+</li>
 
+<li>
 Junxi Song (CMU, co-advised with Seth Goldstein, on leave in Oblivious Labs)
+</li>
+</ul>
 
 <b> Postdocs </b>
 
-Ashrujit Ghoshal
-
-Elisaweta Masserova<br><br><br>
+<ul>
+<li>
+<a href="https://www.cs.cmu.edu/~aghoshal/">
+Ashrujit Ghoshal</a>
+</li>
+<li>
+<a href="https://www.andrew.cmu.edu/user/elisawem/">
+Elisaweta Masserova</a>
+</li>
+<li><br> </li>
+</ul>
 
 
 
