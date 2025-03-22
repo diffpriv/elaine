@@ -15,3 +15,5 @@ Elaine Shi is a Professor with a joint appointment in CSD and ECE at [Carnegie M
 Textbook
 ======
 A preliminary draft version of my textbook [Foundations of Distributed Consensus and Blockchains](https://www.distributedconsensus.net/) is available for download!
+
+
