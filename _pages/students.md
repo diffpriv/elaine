@@ -10,7 +10,6 @@ Current Students
 ======
 
 <br> 
-
 <b>Ph.D. students</b>
 
 Benjamin Chan (Cornell, co-advised with Rafael Pass)
