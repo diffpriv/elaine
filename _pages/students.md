@@ -14,33 +14,35 @@ Current Students
 
 <ul>
 <li>
-Benjamin Chan (Cornell, co-advised with Rafael Pass)
+<a href="https://www.cs.cornell.edu/~yanyiliu/">
+Yanyi Liu </a> (Cornell, co-advised with Rafael Pass),&nbsp;</span></span>
 </li>
 
 <li>
-Yanyi Liu (Cornell, co-advised with Rafael Pass) 
+<a href="https://wuwuz.github.io/">
+Mingxun Zhou</a> (CMU, co-advised with Giulia Fanti),&nbsp;</span></span>
 </li>
 
 <li>
-Mingxun Zhou (CMU, co-advised with Giulia Fanti)
+<a href="https://chunghao.github.io/">
+Hao Chung</a> (CMU),&nbsp;</span></span>
 </li>
 
 <li>
-Hao Chung (CMU) 
+<a href="https://nikhilvanjani.github.io/">
+Nikhil Vanjani (CMU),</a>&nbsp;</span></span>
 </li>
 
 <li>
-Nikhil Vanjani (CMU)
+<a href="https://rosesilver.github.io/">
+Rose Silver (CMU),</a>&nbsp;</span></span>
 </li>
 
 <li>
-Rose Silver (CMU) 
-</li>
-
-<li>
-Tianyao Gu (CMU)
+Tianyao Gu (CMU).</a>&nbsp;</span></span>
 </li>
 </ul>
+
 
 <b> On leave </b>
 
