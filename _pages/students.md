@@ -14,6 +14,10 @@ Current Students
 
 <ul>
 <li>
+Benjamin Chan (Cornell, co-advised with Rafael Pass)
+</li>
+
+<li>
 <a href="https://www.cs.cornell.edu/~yanyiliu/">
 Yanyi Liu </a> (Cornell, co-advised with Rafael Pass)
 </li>
