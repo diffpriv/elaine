@@ -3,7 +3,7 @@
 permalink: /students/
 ---
 
-I am fortunate to have worked with a group of amazing students.  
+I am fortunate to have a group of amazing students.  
 
 
 Current Students
