@@ -15,31 +15,31 @@ Current Students
 <ul>
 <li>
 <a href="https://www.cs.cornell.edu/~yanyiliu/">
-Yanyi Liu </a> (Cornell, co-advised with Rafael Pass),&nbsp;</span></span>
+Yanyi Liu </a> (Cornell, co-advised with Rafael Pass)
 </li>
 
 <li>
 <a href="https://wuwuz.github.io/">
-Mingxun Zhou</a> (CMU, co-advised with Giulia Fanti),&nbsp;</span></span>
+Mingxun Zhou</a> (CMU, co-advised with Giulia Fanti)
 </li>
 
 <li>
 <a href="https://chunghao.github.io/">
-Hao Chung</a> (CMU),&nbsp;</span></span>
+Hao Chung</a> (CMU)
 </li>
 
 <li>
 <a href="https://nikhilvanjani.github.io/">
-Nikhil Vanjani (CMU),</a>&nbsp;</span></span>
+Nikhil Vanjani</a>(CMU)
 </li>
 
 <li>
 <a href="https://rosesilver.github.io/">
-Rose Silver (CMU),</a>&nbsp;</span></span>
+Rose Silver</a> (CMU)
 </li>
 
 <li>
-Tianyao Gu (CMU).</a>&nbsp;</span></span>
+Tianyao Gu (CMU)
 </li>
 </ul>
 
