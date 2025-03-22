@@ -91,25 +91,38 @@ Past students
 <br>
 <b> Ph.D. students </b>
 
-Wei-Kai Lin  (now Assistant Professor at UVA)
-
-Ke Wu  (now Assistant Professor at University of Michigan)
-
-Yue Guo  (now research scientist in JP Morgan Research)
-
-Joshua Gancher  (now Assistant Professor in Northeastern)
-
-Xiong (Leo) Fan (now Assistant Professor at Rutgers)
-
-Andrew Miller (now Associate Professor at UIUC)
-
-Ahmed Kosba  (now Assistant Professor at Alexandria University)
-
-Kartik Nayak  (now Assistant Professor at Duke University)
-
-Chang Liu (first job: postdoc at UC Berkeley)
-
-Youngsam Park (first job: Yahoo)
+<ul>
+  <li>
+    <a href="https://weikailin.github.io/">Wei-Kai Lin</a> (now Assistant Professor at UVA)
+  </li>
+  <li>
+    <a href="https://kewucs.com/">Ke Wu</a>  (now Assistant Professor at University of Michigan)
+  </li>
+  <li>
+    <a>Yue Guo</a>  (now research scientist in JP Morgan Research)
+  </li>
+  <li>
+    <a href="https://gancher.dev/">Joshua Gancher</a>  (now Assistant Professor in Northeastern)
+  </li>
+  <li>
+    <a href="https://leofanxiong.github.io/">Xiong (Leo) Fan</a> (now Assistant Professor at Rutgers)
+  </li>
+  <li>
+    <a href="http://soc1024.ece.illinois.edu/">Andrew Miller</a> (now Associate Professor at UIUC)
+  </li>
+  <li>
+    <a href="https://www.cs.umd.edu/~akosba/">Ahmed Kosba</a>  (now Assistant Professor at Alexandria University)
+  </li>
+  <li>
+    <a href="https://users.cs.duke.edu/~kartik/">Kartik Nayak</a>  (now Assistant Professor at Duke University)
+  </li>
+  <li>
+    <a href="https://www.cs.umd.edu/~liuchang/">Chang Liu</a> (first job: postdoc at UC Berkeley)
+  </li>
+  <li>
+    <a>Youngsam Park</a> (first job: Yahoo)
+  </li>
+</ul>
 
 <b>Postdocs</b>
 
