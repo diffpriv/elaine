@@ -1,6 +1,6 @@
 ---
 #title: "Publications"
-permalink: /
+permalink: /papers/
 ---
 
 <ul>
