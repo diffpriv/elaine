@@ -9,6 +9,8 @@ I am fortunate to have worked with a group of amazing students.
 Current Students
 ======
 
+<br> 
+
 <b>Ph.D. students</b>
 
 Benjamin Chan (Cornell, co-advised with Rafael Pass)
@@ -25,16 +27,17 @@ Rose Silver (CMU)
 
 Tianyao Gu (CMU)
 
-On leave
-------
+
+<b> On leave </b>
+
 Andrew Park (CMU, co-advised with Wenting Zheng, on leave in MongoDB)
 
 Afonso Tinoco (CMU, on leave in Oblivious Labs)
 
 Junxi Song (CMU, co-advised with Seth Goldstein, on leave in Oblivious Labs)
 
-Postdocs
-------
+<b> Postdocs </b>
+
 Ashrujit Ghoshal
 
 Elisaweta Masserova<br><br><br>
@@ -45,8 +48,9 @@ Elisaweta Masserova<br><br><br>
 Past students
 ======
 
-Ph.D. students
-------
+<br>
+<b> Ph.D. students </b>
+
 Wei-Kai Lin  (now Assistant Professor at UVA)
 
 Ke Wu  (now Assistant Professor at University of Michigan)
@@ -67,8 +71,8 @@ Chang Liu (first job: postdoc at UC Berkeley)
 
 Youngsam Park (first job: Yahoo)
 
-Postdocs
-------
+<b>Postdocs</b>
+
 Wei Dong (now Assistant Professor at NTU, co-advised with Giulia Fanti)
 
 Alireza Farhadi (now in industry)
