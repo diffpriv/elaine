@@ -9,8 +9,8 @@ I am fortunate to have worked with a group of amazing students.
 Current Students
 ======
 
-Ph.D. students
-------
+<b>Ph.D. students</b>
+
 Benjamin Chan (Cornell, co-advised with Rafael Pass)
 
 Yanyi Liu (Cornell, co-advised with Rafael Pass) 
@@ -37,12 +37,9 @@ Postdocs
 ------
 Ashrujit Ghoshal
 
-Elisaweta Masserova
+Elisaweta Masserova<br><br><br>
 
 
-------
-  
-  
 
 
 Past students
