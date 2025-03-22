@@ -34,7 +34,7 @@ Hao Chung</a> (CMU)
 
 <li>
 <a href="https://nikhilvanjani.github.io/">
-Nikhil Vanjani</a>(CMU)
+Nikhil Vanjani</a> (CMU)
 </li>
 
 <li>
