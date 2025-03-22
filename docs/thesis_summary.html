@@ -1,0 +1,110 @@
+
+<big style="font-weight: bold;"><big><span style="color: rgb(0, 0, 255);"> 
+How to Build Private Gmail and Private Google Docs</span><br>
+<br>
+</big></big>
+
+<br>
+This thesis describes crypto techniques for building 
+privacy-preserving Gmail and privacy-preserving Google Docs.
+
+<br>
+<br>
+
+
+<big><b>Private Gmail</b><br></big>
+<br>
+&nbsp; &nbsp; Alice loves Gmail. However, she is paranoid about her privacy, and she does not
+wish Google to read her emails.
+<br>
+&nbsp; &nbsp; The good old way to address such privacy concerns is to use encryption.
+Imagine that Alice now uses traditional public-key encryption to protect the secrecy
+of her emails. Alice generates a public-key/private-key pair.
+She publishes the public-key PK, so her friends can encrypt the emails using PK
+before sending them to Alice. Now all emails will be stored in encrypted format at Google,
+and Alice is happy about being able to protect her privacy.
+<br>
+&nbsp; &nbsp; Now Alice wishes to search for all emails whose 
+"(sender = Bob) and (date within [2006, 2007])". Unfortunately,
+Google can no longer perform search for her, since the emails are stored in encrypted format, and
+without the secret key, the emails look like random junk to Google.
+Alice can download all emails from Google, decrypt and search them locally. But what if
+there are too many emails to download?
+Alternatively, Alice can give away her private-key to Google, but of course, that beats the purpose of encryption.
+
+<br>
+&nbsp; &nbsp;
+This problem can be solved using a new type of encryption, called <span style="color: rgb(25, 25, 130);"> predicate encryption</span>.
+Using predicate encryption,  Alice can compute a capability corresponding to her query, e.g., 
+"(sender = Bob) and (date within [2006, 2007])". 
+She gives this capability to Google, and Google can test the capability
+against Alice's encrypted emails. 
+In this way, Google is able to learn which emails match the query; and
+beyond this information, Google learns nothing more about the encrypted emails.
+With predicate encryption, access to the plaintext is no-longer all-or-nothing. One can release
+partial information about the encrypted data, and in a controlled manner. 
+
+
+<br>  
+&nbsp; &nbsp;
+One important goal of predicate 
+encryption is to support expressive query predicates.
+Previously, researchers have proposed efficient constructions for performing
+simple keyword-based queries, a.k.a., equality tests.
+This thesis proposes a new construction supporting conjunctions of range queries which are more expressive
+than simple keyword-based queries.
+It is worth noting that shortly after this research, Katz, Sahai and Waters propose a 
+new scheme that support even more powerful queries, namely, inner-product queries.
+<br>
+<br>
+
+<big><b>Private Google Docs</b><br></big>
+<br>
+&nbsp; &nbsp; Public-key predicate encryption schemes guarantee the secrecy of the ciphertext;
+however, they do not guarantee the secrecy of the tokens.
+In fact, for public-key predicate encryption, 
+it is inherently impossible
+to achieve ciphertext secrecy and token secrecy simultaneously.
+This is due to the fact that anyone is able to encrypt using the public-key.
+For example, if Google would like to know whether a token corresponds to the query "title = xxx", 
+Google can simply encrypt "title = xxx" using the public-key, and test the token
+against the resulting ciphertext.
+<br>
+&nbsp; &nbsp;
+We propose a secret-key predicate encryption scheme that protect the secrecy
+of the ciphertext and tokens simultaneously. Our scheme supports inner-product queries.
+
+<br>
+&nbsp; &nbsp;
+A cool application of this scheme is private Google Docs.
+Alice stores her documents on Google Docs. Like Gmail, Google Docs has this cool feature that it
+allows Alices to search her documents. For example, Alice may wish to retrieve
+all documents "(date within 2007) or (title contains <i>crypto</i>)".
+Again, she cares about her privacy, and do not wish Google to read her documents.
+
+<br>
+&nbsp; &nbsp;
+But how is this different from private Gmail?
+Gmail calls for a public-key scheme, since anyone should be able to send email to Alice. 
+With Google Docs, Alice is the only content creator, so she can use a secret-key
+scheme that achieves better privacy gurantee: both her documents 
+and her queries are now private.
+
+
+<br><br>
+
+<big><b>Delegating capabilities in predicate encryption</b><br></big>
+<br>
+&nbsp; &nbsp;
+In predicate encryption systems, it is often important for a user holding a capability (or a set
+of capabilities) to generate another capability that is more restrictive than the ones she currently
+holds. 
+We say that a predicate encryption system allows for delegation
+if a user can create capabilities that are more restrictive than the ones she currently owns and if
+she can do this operation autonomously; that is, without interacting with an authority.
+In this thesis, we investigate how to delegate capabilities in predicate encryption.
+
+
+
+
+
