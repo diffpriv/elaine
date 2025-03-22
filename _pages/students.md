@@ -1,5 +1,5 @@
 ---
-title: "Students"
+#title: "Students"
 permalink: /students/
 ---
 
@@ -39,9 +39,10 @@ Ashrujit Ghoshal
 
 Elisaweta Masserova
 
-  
-  
 
+------
+  
+  
 
 
 Past students
