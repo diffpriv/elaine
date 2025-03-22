@@ -126,39 +126,59 @@ Past students
 
 <b>Postdocs</b>
 
-Wei Dong (now Assistant Professor at NTU, co-advised with Giulia Fanti)
-
-Alireza Farhadi (now in industry)
-
-Cliff Liu (now visiting assistant professor at Emory)
-
-Yiannis Tselekounis (now Lecturer at the Royal Holloway, University of London)
-
-Pratik Soni (now Assitant Professor at University of Utah)
-
-Rex Fernando (now at Aptos Labs)
-
-Tianhao Wang (now Assistant Professor at UVA)
-
-Julian Loss (now Assistant Professor at CISPA)
-
-Fenghao Liu (now Associate Professor at Florida Atlantic University)
-
-Qiang Tang (now Associate Professor at University of Sydney)
-
-Mu Zhang (now Assistant Professor at University of Utah)
-
-Iddo Bentov (first job: postdoc at CornellTech)
-
-Antigoni Polychroniadou  (now at JP Morgan Research, co-advised with Rafael Pass and Muthu Venkitasubramaniam)
-
-Ilan Komargodski  (now Assistant Professor at Hebrew University, co-advised with Rafael Pass)
-
-Yue Duan  (now Assistant Professor at Singapore Management University)
-
-Thang Hoang   (now Assistant Professor at Virginia Tech)
-
-Zhuolun Xiang  (now at Aptos Labs)
-
-Sri Aravinda Krishnan Thyagarajan  (now Assistant Professor at University of Sydney)
-
+<ul>
+  <li>
+    <a href="https://weidong.hk/">Wei Dong</a> (now Assistant Professor at NTU, co-advised with Giulia Fanti)
+  </li>
+  <li>
+    <a href="http://www.afarhadi.com/">Alireza Farhadi</a> (now in industry)
+  </li>
+  <li>
+    <a href="https://www.cs.princeton.edu/~sixuel/">Cliff Liu</a> (now visiting assistant professor at Emory)
+  </li>
+  <li>
+    <a href="https://homepages.inf.ed.ac.uk/itseleko/">Yiannis Tselekounis</a> (now Lecturer at the Royal Holloway, University of London)
+  </li>
+  <li>
+    <a href="https://www.cs.cmu.edu/~psoni/">Pratik Soni</a> (now Assitant Professor at University of Utah)
+  </li>
+  <li>
+    <a href="https://rex1fernando.github.io/">Rex Fernando</a> (now at Aptos Labs)
+  </li>
+  <li>
+    <a href="https://tianhao.wang/">Tianhao Wang</a> (now Assistant Professor at UVA)
+  </li>
+  <li>
+    <a href="https://www.julianloss.com/">Julian Loss</a> (now Assistant Professor at CISPA)
+  </li>
+  <li>
+    <a href="http://faculty.eng.fau.edu/fenghao/">Fenghao Liu</a> (now Associate Professor at Florida Atlantic University)
+  </li>
+  <li>
+    <a href="https://web.njit.edu/~qiang/">Qiang Tang</a> (now Associate Professor at University of Sydney)
+  </li>
+  <li>
+    <a href="https://sites.google.com/site/muzhang82/">Mu Zhang</a> (now Assistant Professor at University of Utah)
+  </li>
+  <li>
+    <a href="https://www.cs.cornell.edu/~iddo/">Iddo Bentov</a> (first job: postdoc at CornellTech)
+  </li>
+  <li>
+    <a href="http://www.cs.cornell.edu/~polychroniadou/">Antigoni Polychroniadou</a>  (now at JP Morgan Research, co-advised with Rafael Pass and Muthu Venkitasubramaniam)
+  </li>
+  <li>
+    <a href="http://ilan.tech.cornell.edu/">Ilan Komargodski</a>  (now Assistant Professor at Hebrew University, co-advised with Rafael Pass)
+  </li>
+  <li>
+    <a href="https://yueduan.github.io/">Yue Duan</a>  (now Assistant Professor at Singapore Management University)
+  </li>
+  <li>
+    <a href="https://thanghoang.github.io/">Thang Hoang</a>   (now Assistant Professor at Virginia Tech)
+  </li>
+  <li>
+    <a href="https://sites.google.com/site/danielxiangzl/">Zhuolun Xiang</a>  (now at Aptos Labs)
+  </li>
+  <li>
+    <a href="https://sites.google.com/view/sak-thyagarajan">Sri Aravinda Krishnan Thyagarajan</a>  (now Assistant Professor at University of Sydney)
+  </li>
+</ul>
