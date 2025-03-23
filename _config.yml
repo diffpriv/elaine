@@ -13,8 +13,8 @@ title                    : "Elaine Shi"
 title_separator          : "-"
 name                     : &name "Elaine Shi"
 description              : &description "Elaine Shi's homepage"
-url                      : https://diffpriv.github.io/elaine # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
+url                      : https://diffpriv.github.io# the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+baseurl                  : "/elaine" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
