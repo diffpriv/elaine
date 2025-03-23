@@ -100,7 +100,7 @@ Past students
     <a href="https://kewucs.com/">Ke Wu</a>  (now Assistant Professor at University of Michigan)
   </li>
   <li>
-    <a>Yue Guo</a>  (now research scientist in JP Morgan Research)
+    Yue Guo (now research scientist in JP Morgan Research)
   </li>
   <li>
     <a href="https://gancher.dev/">Joshua Gancher</a>  (now Assistant Professor in Northeastern)
