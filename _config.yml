@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Elaine Shi"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Elaine Shi"
 description              : &description "Elaine Shi's homepage"
