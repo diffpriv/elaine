@@ -167,7 +167,7 @@ Past students
     <a href="http://www.cs.cornell.edu/~polychroniadou/">Antigoni Polychroniadou</a>  (now at JP Morgan Research, co-advised with Rafael Pass and Muthu Venkitasubramaniam)
   </li>
   <li>
-    <a href="http://ilan.tech.cornell.edu/">Ilan Komargodski</a>  (now Assistant Professor at Hebrew University, co-advised with Rafael Pass)
+    <a href="https://www.cs.huji.ac.il/~ilank/">Ilan Komargodski</a>  (now Assistant Professor at Hebrew University, co-advised with Rafael Pass)
   </li>
   <li>
     <a href="https://yueduan.github.io/">Yue Duan</a>  (now Assistant Professor at Singapore Management University)
