@@ -25,7 +25,7 @@ author:
   avatar           : "elaine-new.png"
   name             : "Elaine Shi"
   pronouns         : # example: "she/her"  
-  bio              : "Professor, CSD &amp; ECE"
+  bio              : "Professor, CSD &amp; ECE <br> Packard Fellow, Sloan Fellow, ACM Fellow"
 #  location         : "Earth"
   employer         : "Carnegie Mellon University"
   uri              : # URL
