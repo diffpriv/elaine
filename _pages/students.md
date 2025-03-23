@@ -14,36 +14,37 @@ Current Students
 
 <ul>
 <li>
-Benjamin Chan (Cornell, co-advised with Rafael Pass)
+<a href="https://www.cs.cornell.edu/~byc/">
+Benjamin Chan</a> (Cornell, co-advised with Rafael Pass)
 </li>
 
 <li>
 <a href="https://www.cs.cornell.edu/~yanyiliu/">
-Yanyi Liu </a> (Cornell, co-advised with Rafael Pass)
+Yanyi Liu</a> (Cornell, co-advised with Rafael Pass)
 </li>
 
 <li>
 <a href="https://wuwuz.github.io/">
-Mingxun Zhou</a> (CMU, co-advised with Giulia Fanti)
+Mingxun Zhou</a> (co-advised with Giulia Fanti)
 </li>
 
 <li>
 <a href="https://chunghao.github.io/">
-Hao Chung</a> (CMU)
+Hao Chung</a> 
 </li>
 
 <li>
 <a href="https://nikhilvanjani.github.io/">
-Nikhil Vanjani</a> (CMU)
+Nikhil Vanjani</a> 
 </li>
 
 <li>
 <a href="https://rosesilver.github.io/">
-Rose Silver</a> (CMU)
+Rose Silver</a>
 </li>
 
 <li>
-Tianyao Gu (CMU)
+Tianyao Gu
 </li>
 </ul>
 
@@ -53,15 +54,15 @@ Tianyao Gu (CMU)
 <ul>
 <li>
 <a href="https://andyp223.github.io/">
-Andrew Park</a> (CMU, co-advised with Wenting Zheng, on leave in MongoDB)
+Andrew Park</a> (co-advised with Wenting Zheng, on leave in MongoDB)
 </li>
 
 <li>
-Afonso Tinoco (CMU, on leave in Oblivious Labs)
+Afonso Tinoco (on leave in Oblivious Labs)
 </li>
 
 <li>
-Junxi Song (CMU, co-advised with Seth Goldstein, on leave in Oblivious Labs)
+Junxi Song (co-advised with Seth Goldstein, on leave in Oblivious Labs)
 </li>
 </ul>
 
