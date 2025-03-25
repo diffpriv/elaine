@@ -115,7 +115,7 @@ Past students
     <a href="https://www.cs.umd.edu/~akosba/">Ahmed Kosba</a>  (now Assistant Professor at Alexandria University)
   </li>
   <li>
-    <a href="https://users.cs.duke.edu/~kartik/">Kartik Nayak</a>  (now Assistant Professor at Duke University)
+    <a href="https://users.cs.duke.edu/~kartik/">Kartik Nayak</a>  (now Associate Professor at Duke University)
   </li>
   <li>
     <a href="https://www.cs.umd.edu/~liuchang/">Chang Liu</a> (first job: postdoc at UC Berkeley)
