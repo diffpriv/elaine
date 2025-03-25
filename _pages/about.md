@@ -19,6 +19,7 @@ Textbook
 A preliminary draft version of my textbook [Foundations of Distributed Consensus and Blockchains](https://www.distributedconsensus.net/) is available for download!
 <br>
 <br>
+<br>
 
 Miscellaneous
 ======
