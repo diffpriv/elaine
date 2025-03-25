@@ -18,7 +18,7 @@ Textbook and Course Materials
 ======
 
 Course and lab materials for [Oblivious RAM](https://pathoram.jimdofree.com/)
-<br>
+
 My textbook [Foundations of Distributed Consensus and Blockchains](https://www.distributedconsensus.net/) (preliminary version)
 <br>
 <br>
