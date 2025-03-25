@@ -14,12 +14,16 @@ I am a Professor with a joint appointment in CSD and ECE at [Carnegie Mellon Uni
 <br>
 <br>
 
-Textbook
+Textbook and Course Materials
 ======
-A preliminary draft version of my textbook [Foundations of Distributed Consensus and Blockchains](https://www.distributedconsensus.net/) is available for download!
+
+Course and lab materials for [Oblivious RAM](https://pathoram.jimdofree.com/)
+
+My textbook [Foundations of Distributed Consensus and Blockchains](https://www.distributedconsensus.net/) (preliminary version)
 <br>
 <br>
 <br>
+
 
 Miscellaneous
 ======
