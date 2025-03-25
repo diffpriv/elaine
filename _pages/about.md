@@ -18,4 +18,8 @@ Textbook
 ======
 A preliminary draft version of my textbook [Foundations of Distributed Consensus and Blockchains](https://www.distributedconsensus.net/) is available for download!
 
+Miscellaneous
+======
+Memorial website for [Emil Stefanov](http://www.rememberingemil.org/p/first-page.html)
+
 
