@@ -17,6 +17,8 @@ I am a Professor with a joint appointment in CSD and ECE at [Carnegie Mellon Uni
 Textbook
 ======
 A preliminary draft version of my textbook [Foundations of Distributed Consensus and Blockchains](https://www.distributedconsensus.net/) is available for download!
+<br>
+<br>
 
 Miscellaneous
 ======
