@@ -121,7 +121,7 @@ Past students
     <a href="https://www.cs.umd.edu/~liuchang/">Chang Liu</a> (first job: postdoc at UC Berkeley)
   </li>
   <li>
-    <a>Youngsam Park</a> (first job: Yahoo)
+    Youngsam Park (first job: Yahoo)
   </li>
 </ul>
 
