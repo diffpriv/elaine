@@ -118,7 +118,7 @@ Past students
     <a href="https://users.cs.duke.edu/~kartik/">Kartik Nayak</a>  (now Associate Professor at Duke University)
   </li>
   <li>
-    <a href="https://www.cs.umd.edu/~liuchang/">Chang Liu</a> (first job: postdoc at UC Berkeley)
+    Chang Liu (first job: postdoc at UC Berkeley)
   </li>
   <li>
     Youngsam Park (first job: Yahoo)
