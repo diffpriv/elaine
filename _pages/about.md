@@ -14,8 +14,19 @@ I am a Professor with a joint appointment in CSD and ECE at [Carnegie Mellon Uni
 <br>
 <br>
 
-Textbook
-======
-A preliminary draft version of my textbook [Foundations of Distributed Consensus and Blockchains](https://www.distributedconsensus.net/) is available for download!
+Textbook and Course Materials
+------
+
+Course and lab materials for [Oblivious RAM](https://pathoram.jimdofree.com/)
+<br>
+My textbook [Foundations of Distributed Consensus and Blockchains](https://www.distributedconsensus.net/) (preliminary version)
+<br>
+<br>
+<br>
+
+
+Miscellaneous
+------
+Memorial website for [Emil Stefanov](http://www.rememberingemil.org/p/first-page.html)
 
 
