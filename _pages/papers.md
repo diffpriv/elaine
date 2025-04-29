@@ -309,7 +309,7 @@ Locality-Preserving Oblivious RAM. </strong></font>
 <font size="+1"><strong>
 Polynomial Commitment with a One-to-Many Prover and Applications. </strong></font>
 <br>Jiaheng Zhang, Tiancheng Xie, Thang Hoang, Elaine Shi, and Yupeng Zhang. In <strong>Usenix Security Symposium</strong>, 2022.
-<br><a href="">[Paper]
+<br><a href="https://www.usenix.org/system/files/sec22-zhang-jiaheng.pdf">[Paper]
 </a><br>
 </li>
 <li>
