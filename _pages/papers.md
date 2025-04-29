@@ -8,8 +8,10 @@ permalink: /papers/
 <font size="+1"><strong>
 Quasi-Linear Indistinguishability Obfuscation via Mathematical Proofs of Equivalence and Applications. </strong></font>
 <br>Yaohua Ma, Chenxin Dai, and Elaine Shi (randomized author order). In <strong>Eurocrypt</strong>, 2025.
-<br><a href="https://eprint.iacr.org/2025/307.pdf">[Paper]
-</a><br>
+<br>
+<a href="https://eprint.iacr.org/2025/307.pdf">[Paper]</a>
+<a href="https://diffpriv.github.io/elaine/docs/quasilinear-io.pdf">[Slides]</a>
+<br>
 </li>
 <li>
 <font size="+1"><strong>
