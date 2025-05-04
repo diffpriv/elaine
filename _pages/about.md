@@ -26,11 +26,17 @@ Lecture notes on [Oblivious algorithms and Private Information Retrieval](https:
 <br>
 <br>
 
+Links
+------
+CMU's [crypto group](https://crypto.cs.cmu.edu/)
+<br>
+I co-founded CMU's Cylab [Crypto Seminar series](https://sites.google.com/view/crypto-seminar/)
+<br>
+<br>
+<br>
 
 Miscellaneous
 ------
 Memorial website for [Emil Stefanov](http://www.rememberingemil.org/p/first-page.html)
 <br>
-CMU's [crypto group](https://crypto.cs.cmu.edu/)
-<br>
-I co-founded CMU's Cylab [Crypto Seminar series](https://sites.google.com/view/crypto-seminar/)
+
