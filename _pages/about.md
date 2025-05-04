@@ -21,7 +21,9 @@ Course and lab materials for [Oblivious RAM](https://pathoram.jimdofree.com/)
 <br>
 My textbook [Foundations of Distributed Consensus and Blockchains](https://www.distributedconsensus.net/) (preliminary version)
 <br>
+[Lecture notes on Oblivious RAM and Private Information Retrieval](https://www.cs.cmu.edu/~15893/syllabus.html)
 <br>
+[Lecture notes and lab for binary-tree ORAM and Path ORAM](https://pathoram.jimdo.com/)
 <br>
 
 
