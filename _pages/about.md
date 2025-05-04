@@ -30,7 +30,7 @@ Links
 ------
 CMU's [crypto group](https://crypto.cs.cmu.edu/)
 <br>
-I co-founded CMU's Cylab [Crypto Seminar series](https://sites.google.com/view/crypto-seminar/)
+I co-founded CMU's Cylab [crypto seminar series](https://sites.google.com/view/crypto-seminar/)
 <br>
 <br>
 <br>
