@@ -21,7 +21,7 @@ Course and lab materials for [Oblivious RAM](https://pathoram.jimdofree.com/)
 <br>
 My textbook [Foundations of Distributed Consensus and Blockchains](https://www.distributedconsensus.net/) (preliminary version)
 <br>
-Lecture notes on [Oblivious Algorithms and Private Information Retrieval](https://www.cs.cmu.edu/~15893/syllabus.html)
+Lecture notes on [Oblivious Computation and Private Information Retrieval](https://www.cs.cmu.edu/~15893/syllabus.html)
 <br>
 <br>
 
