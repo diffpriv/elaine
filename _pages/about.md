@@ -24,14 +24,12 @@ My textbook [Foundations of Distributed Consensus and Blockchains](https://www.d
 Lecture notes on [Oblivious algorithms and Private Information Retrieval](https://www.cs.cmu.edu/~15893/syllabus.html)
 <br>
 <br>
-<br>
 
 Links
 ------
 CMU's [crypto group](https://crypto.cs.cmu.edu/)
 <br>
 I co-founded CMU's Cylab [crypto seminar series](https://sites.google.com/view/crypto-seminar/)
-<br>
 <br>
 <br>
 
