@@ -10,7 +10,11 @@ redirect_from:
 Packard Fellow, Sloan Fellow, ACM Fellow, IACR Fellow
 
 
-I am a Professor with a joint appointment in CSD and ECE at [Carnegie Mellon University](https://cmu.edu). My research interests include cryptography, security, mechanism design, algorithms, foundations of blockchains, and programming languages. I'm a co-founder of [Oblivious Labs, Inc](https://obliviouslabs.com). My research on Oblivious RAM and differentially private algorithms have been adopted by [Signal](https://signal.org/blog/building-faster-oram/), [Meta](https://github.com/facebook/oram), and Google. 
+I am a Professor with a joint appointment in CSD and ECE at [Carnegie Mellon University](https://cmu.edu). 
+I am also an Adjunct Professor of Computer Science 
+at the [University of Maryland](https://www.cs.umd.edu/). 
+<br>
+My research interests include cryptography, security, mechanism design, algorithms, foundations of blockchains, and programming languages. I'm a co-founder of [Oblivious Labs, Inc](https://obliviouslabs.com). My research on Oblivious RAM and differentially private algorithms have been adopted by [Signal](https://signal.org/blog/building-faster-oram/), [Meta](https://github.com/facebook/oram), and Google. 
 <br>
 <br>
 
@@ -21,12 +25,20 @@ Course and lab materials for [Oblivious RAM](https://pathoram.jimdofree.com/)
 <br>
 My textbook [Foundations of Distributed Consensus and Blockchains](https://www.distributedconsensus.net/) (preliminary version)
 <br>
+Lecture notes on [Oblivious Computation and Private Information Retrieval](https://www.cs.cmu.edu/~15893/syllabus.html)
 <br>
 <br>
 
+Links
+------
+CMU's [crypto group](https://crypto.cs.cmu.edu/)
+<br>
+I co-founded CMU's Cylab [crypto seminar series](https://sites.google.com/view/crypto-seminar/)
+<br>
+<br>
 
 Miscellaneous
 ------
 Memorial website for [Emil Stefanov](http://www.rememberingemil.org/p/first-page.html)
-
+<br>
 
