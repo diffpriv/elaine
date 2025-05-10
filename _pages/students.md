@@ -61,9 +61,6 @@ Andrew Park</a> (co-advised with Wenting Zheng, on leave in MongoDB)
 Afonso Tinoco (on leave in Oblivious Labs)
 </li>
 
-<li>
-Junxi Song (co-advised with Seth Goldstein, on leave in Oblivious Labs)
-</li>
 </ul>
 
 <b> Postdocs </b>
