@@ -849,14 +849,14 @@ Constants Count: Practical Improvements to Oblivious RAM. </strong></font>
 <li>
 <font size="+1"><strong>
  ObliVM: A Programming Framework for Secure Computation. </strong></font>
-<br>Chang Liu, Xiao Shaun Wang, Kartik Nayak, Yan Huang, and Elaine Shi. In <strong>IEEE Symposium on Security and Privacy (S&amp;P)</strong> , 2015. *** Source code released on our <a href="">ObliVM project webpage</a> .
+<br>Chang Liu, Xiao Shaun Wang, Kartik Nayak, Yan Huang, and Elaine Shi. In <strong>IEEE Symposium on Security and Privacy (S&amp;P)</strong> , 2015. 
 <br><a href="https://diffpriv.github.io/elaine/docs/oblivm.pdf">[Paper]
 </a><br>
 </li>
 <li>
 <font size="+1"><strong>
  GraphSC: Parallel Secure Computation Made Easy. </strong></font>
-<br>Kartik Nayak, Xiao Shaun Wang, Stratis Ioannidis, Udi Weinsberg, Nina Taft, and Elaine Shi. In <strong>IEEE Symposium on Security and Privacy (S&amp;P)</strong> , 2015. *** Source code released on our <a href="http://www.oblivm.com/">ObliVM project webpage</a> .
+<br>Kartik Nayak, Xiao Shaun Wang, Stratis Ioannidis, Udi Weinsberg, Nina Taft, and Elaine Shi. In <strong>IEEE Symposium on Security and Privacy (S&amp;P)</strong> , 2015. 
 <br><a href="https://diffpriv.github.io/elaine/docs/graphsc.pdf">[Paper]
 </a><br>
 </li>
