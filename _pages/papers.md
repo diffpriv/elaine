@@ -27,7 +27,7 @@ One-Sided Bounded Noise: Theory, Optimization Algorithms and Applications. </str
 <li>
 <font size="+1"><strong>
 Expected Constant Round Byzantine Broadcast under Dishonest Majority. </strong></font>
-<br>Jun Wan, Hanshen Xiao, Elaine Shi, and Srini Devadas. In <strong>Journal of the ACM.</strong>, 2025.
+<br>Jun Wan, Hanshen Xiao, Elaine Shi, and Srini Devadas. In <strong>Journal of the ACM</strong>, 2025.
 <br>
 <a href="https://eprint.iacr.org/2020/590.pdf">[Paper]</a>
 <br>
