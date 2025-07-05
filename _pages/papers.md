@@ -6,6 +6,34 @@ permalink: /papers/
 <ul>
 <li>
 <font size="+1"><strong>
+Foundations of Platform-Assisted Auctions. </strong></font>
+<br>Hao Chung, Ke Wu, and Elaine Shi (randomized author order). In <strong>CRYPTO</strong>, 2025.
+<br>
+<a href="https://eprint.iacr.org/2025/019">[Paper]</a>
+<br>
+</li>
+<li>
+<font size="+1"><strong>
+PicoGRAM: Practical Garbled RAM from Decisional Diffie-Hellman. </strong></font>
+<br>Tianyao Gu, Afonso Tinoco, Sri Harish Rajan, and Elaine Shi. In <strong>CRYPTO</strong>, 2025.
+<br>
+</li>
+<li>
+<font size="+1"><strong>
+One-Sided Bounded Noise: Theory, Optimization Algorithms and Applications. </strong></font>
+<br>Hanshen Xiao, Jun Wan, Elaine Shi, and Srini Devadas. In <strong>ACM CCS</strong>, 2025.
+<br>
+<a href="https://eprint.iacr.org/2020/590.pdf">[Paper]</a>
+<br>
+</li>
+<li>
+<font size="+1"><strong>
+Expected Constant Round Byzantine Broadcast under Dishonest Majority. </strong></font>
+<br>Jun Wan, Hanshen Xiao, Elaine Shi, and Srini Devadas. In <strong>Journal of the ACM.</strong>, 2025.
+<br>
+</li>
+<li>
+<font size="+1"><strong>
 Quasi-Linear Indistinguishability Obfuscation via Mathematical Proofs of Equivalence and Applications. </strong></font>
 <br>Yaohua Ma, Chenxin Dai, and Elaine Shi (randomized author order). In <strong>Eurocrypt</strong>, 2025.
 <br>
