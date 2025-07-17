@@ -21,7 +21,8 @@ PicoGRAM: Practical Garbled RAM from Decisional Diffie-Hellman. </strong></font>
 <li>
 <font size="+1"><strong>
 Mechanism Design for Automated Market Makers. </strong></font>
-<br>T-H. Hubert Chan, Ke Wu, and Elaine Shi (randomized author order). In <strong>AFT</strong>, 2025.
+<br>T-H. Hubert Chan, Ke Wu, and Elaine Shi (randomized author order). In <strong>International Conference on Advances in Financial
+Technologies (AFT)</strong>, 2025.
 <br>
 <a href="https://arxiv.org/pdf/2402.09357">[Paper]</a>
 <br>
