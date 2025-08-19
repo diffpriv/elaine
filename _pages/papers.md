@@ -11,6 +11,7 @@ Foundations of Platform-Assisted Auctions. </strong></font>
 <br>Hao Chung, Ke Wu, and Elaine Shi (randomized author order). In <strong>CRYPTO</strong>, 2025.
 <br>
 <a href="https://eprint.iacr.org/2025/019">[Paper]</a>
+<a href="https://elaineshi.com/docs/sharing-foundations-platform-assisted-auctions.pdf">[Slides]</a>
 <br>
 </li>
 <li>
