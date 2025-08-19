@@ -3,7 +3,6 @@
 permalink: /papers/
 ---
 
-
 <ul>
 <li>
 <font size="+1"><strong>
