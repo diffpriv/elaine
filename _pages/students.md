@@ -104,7 +104,7 @@ Hao Chung</a> (Now research scientist in LayerZero)
     <a href="https://leofanxiong.github.io/">Xiong (Leo) Fan</a> (now Assistant Professor at Rutgers)
   </li>
   <li>
-    <a href="http://soc1024.ece.illinois.edu/">Andrew Miller</a> (now Associate Professor at UIUC)
+    <a href="http://soc1024.ece.illinois.edu/">Andrew Miller</a> (now Adjunct Associate Professor at UIUC)
   </li>
   <li>
     <a href="https://www.cs.umd.edu/~akosba/">Ahmed Kosba</a>  (now Assistant Professor at Alexandria University)
