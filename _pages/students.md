@@ -101,10 +101,10 @@ Hao Chung</a> (Now research scientist in LayerZero)
     <a href="https://gancher.dev/">Joshua Gancher</a>  (now Assistant Professor in Northeastern)
   </li>
   <li>
-    <a href="https://leofanxiong.github.io/">Xiong (Leo) Fan</a> (now Assistant Professor at Rutgers)
+    <a href="https://leofanxiong.github.io/">Xiong (Leo) Fan</a> (Assistant Professor at Rutgers &rarr; founder and CEO of Cysic)
   </li>
   <li>
-    <a href="http://soc1024.ece.illinois.edu/">Andrew Miller</a> (now Adjunct Associate Professor at UIUC)
+    <a href="http://soc1024.ece.illinois.edu/">Andrew Miller</a> (Associate Professor at UIUC &rarr; entrepreneur)
   </li>
   <li>
     <a href="https://www.cs.umd.edu/~akosba/">Ahmed Kosba</a>  (now Assistant Professor at Alexandria University)
