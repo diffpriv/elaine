@@ -14,26 +14,6 @@ Current Students
 
 <ul>
 <li>
-<a href="https://www.cs.cornell.edu/~byc/">
-Benjamin Chan</a> (Cornell, co-advised with Rafael Pass)
-</li>
-
-<li>
-<a href="https://www.cs.cornell.edu/~yanyiliu/">
-Yanyi Liu</a> (Cornell, co-advised with Rafael Pass)
-</li>
-
-<li>
-<a href="https://wuwuz.github.io/">
-Mingxun Zhou</a> (co-advised with Giulia Fanti)
-</li>
-
-<li>
-<a href="https://chunghao.github.io/">
-Hao Chung</a> 
-</li>
-
-<li>
 <a href="https://nikhilvanjani.github.io/">
 Nikhil Vanjani</a> 
 </li>
@@ -90,6 +70,24 @@ Past students
 <b> Ph.D. students </b>
 
 <ul>
+<li>
+<a href="https://www.cs.cornell.edu/~byc/">
+Benjamin Chan</a> (Now in industry, co-advised with Rafael Pass)
+</li>
+<li>
+<a href="https://www.cs.cornell.edu/~yanyiliu/">
+Yanyi Liu</a> (Now research scientist 
+in OpenAI, co-advised with Rafael Pass)
+</li>
+<li>
+<a href="https://wuwuz.github.io/">
+Mingxun Zhou</a> (Now Assistant Professor in HKUST, co-advised with Giulia Fanti)
+</li>
+<li>
+<a href="https://chunghao.github.io/">
+Hao Chung</a> (Now research scientist in LayerZero) 
+</li>
+
   <li>
     <a href="https://weikailin.github.io/">Wei-Kai Lin</a> (now Assistant Professor at UVA)
   </li>
