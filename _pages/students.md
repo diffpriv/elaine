@@ -72,20 +72,20 @@ Past students
 <ul>
 <li>
 <a href="https://www.cs.cornell.edu/~byc/">
-Benjamin Chan</a> (Now in industry, co-advised with Rafael Pass)
+Benjamin Chan</a> (now in industry, co-advised with Rafael Pass)
 </li>
 <li>
 <a href="https://www.cs.cornell.edu/~yanyiliu/">
-Yanyi Liu</a> (Now research scientist 
+Yanyi Liu</a> (now research scientist 
 in OpenAI, co-advised with Rafael Pass)
 </li>
 <li>
 <a href="https://wuwuz.github.io/">
-Mingxun Zhou</a> (Now Assistant Professor in HKUST, co-advised with Giulia Fanti)
+Mingxun Zhou</a> (now Assistant Professor in HKUST, co-advised with Giulia Fanti)
 </li>
 <li>
 <a href="https://chunghao.github.io/">
-Hao Chung</a> (Now research scientist in LayerZero) 
+Hao Chung</a> (now research scientist in LayerZero) 
 </li>
 
   <li>
