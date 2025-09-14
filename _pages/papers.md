@@ -7,6 +7,16 @@ permalink: /papers/
 <ul>
 <li>
 <font size="+1"><strong>
+Scalable Multi-Server Private Information Retrieval. </strong></font>
+<br>Ashrujit Ghoshal, Baitian Li, Yaohua Ma,
+Chenxin Dai, Elaine Shi. In <strong>TCC</strong>, 2025.
+<br>
+<a href="https://eprint.iacr.org/2024/765">[Paper]</a>
+<br>
+</li>
+
+<li>
+<font size="+1"><strong>
 Foundations of Platform-Assisted Auctions. </strong></font>
 <br>Hao Chung, Ke Wu, and Elaine Shi (randomized author order). In <strong>CRYPTO</strong>, 2025.
 <br>
