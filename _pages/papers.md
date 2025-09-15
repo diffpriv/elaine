@@ -9,7 +9,7 @@ permalink: /papers/
 <font size="+1"><strong>
 Scalable Multi-Server Private Information Retrieval. </strong></font>
 <br>Ashrujit Ghoshal, Baitian Li, Yaohua Ma,
-Chenxin Dai, Elaine Shi. In <strong>TCC</strong>, 2025.
+Chenxin Dai, and Elaine Shi. In <strong>TCC</strong>, 2025.
 <br>
 <a href="https://eprint.iacr.org/2024/765">[Paper]</a>
 <br>
