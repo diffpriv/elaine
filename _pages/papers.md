@@ -29,6 +29,8 @@ Foundations of Platform-Assisted Auctions. </strong></font>
 PicoGRAM: Practical Garbled RAM from Decisional Diffie-Hellman. </strong></font>
 <br>Tianyao Gu, Afonso Tinoco, Sri Harish Rajan, and Elaine Shi. In <strong>CRYPTO</strong>, 2025.
 <br>
+<a href="https://eprint.iacr.org/2025/1479">[Paper]</a>
+<br>
 </li>
 <li>
 <font size="+1"><strong>
