@@ -47,8 +47,8 @@ Afonso Tinoco (on leave in Oblivious Labs)
 
 <ul>
 <li>
-<a href="https://www.cs.cmu.edu/~aghoshal/">
-Ashrujit Ghoshal</a>
+<a href="https://homes.cs.washington.edu/~hanjul/">
+Hanjun Li</a>
 </li>
 <li>
 <a href="https://www.andrew.cmu.edu/user/elisawem/">
@@ -123,6 +123,10 @@ Hao Chung</a> (now research scientist in LayerZero)
 <b>Postdocs</b>
 
 <ul>
+<li>
+<a href="https://www.cs.cmu.edu/~aghoshal/">
+Ashrujit Ghoshal</a>
+</li>
   <li>
     <a href="https://weidong.hk/">Wei Dong</a> (now Assistant Professor at NTU, co-advised with Giulia Fanti)
   </li>
