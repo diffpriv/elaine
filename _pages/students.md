@@ -125,7 +125,8 @@ Hao Chung</a> (now research scientist in LayerZero)
 <ul>
 <li>
 <a href="https://www.cs.cmu.edu/~aghoshal/">
-Ashrujit Ghoshal</a>
+Ashrujit Ghoshal</a> (now faculty member in 
+Indian Institute of Technology, Madras)
 </li>
   <li>
     <a href="https://weidong.hk/">Wei Dong</a> (now Assistant Professor at NTU, co-advised with Giulia Fanti)
