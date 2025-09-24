@@ -125,7 +125,7 @@ Hao Chung</a> (now research scientist in LayerZero)
 <ul>
 <li>
 <a href="https://www.cs.cmu.edu/~aghoshal/">
-Ashrujit Ghoshal</a> (now faculty member in 
+Ashrujit Ghoshal</a> (now Assistant Professor in 
 Indian Institute of Technology, Madras)
 </li>
   <li>
