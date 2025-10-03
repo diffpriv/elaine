@@ -10,7 +10,7 @@ permalink: /papers/
  History-Independent Load Balancing.
 </strong></font>
 <br>
-Michael Bender, William Kuszmaul, Rose Silver, and Elaine Shi.
+Michael Bender, William Kuszmaul, Elaine Shi, and Rose Silver.
 In <strong>SODA</strong>, 2026.
 <br>
 </li>
