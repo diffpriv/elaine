@@ -7,6 +7,17 @@ permalink: /papers/
 <ul>
 <li>
 <font size="+1"><strong>
+ History-Independent Load Balancing.
+</strong></font>
+<br>
+Michael Bender, William Kuszmaul, Rose Silver, and Elaine Shi.
+In <strong>SODA</strong>, 2026.
+<br>
+</li>
+
+
+<li>
+<font size="+1"><strong>
 Zelda: Efficient Multi-server Preprocessing PIR with
 Unconditional Security.
 </strong></font>
