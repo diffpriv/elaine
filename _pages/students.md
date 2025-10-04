@@ -14,6 +14,24 @@ Current Students
 
 <ul>
 <li>
+<a href="https://csd.cmu.edu/people/doctoral-student/andrew-krapivin">
+Andrew Krapivin
+</a>  (co-advised with William Kuszmaul) 
+</li>
+
+
+<li>
+<a href="https://csd.cs.cmu.edu/people/doctoral-student/changrui-mu">
+Changrui Mu</a> 
+</li>
+
+
+<li>
+<a href="https://www.csd.cs.cmu.edu/people/doctoral-student/yue-yang">
+Yue Yang</a> 
+</li>
+
+<li>
 <a href="https://nikhilvanjani.github.io/">
 Nikhil Vanjani</a> 
 </li>
