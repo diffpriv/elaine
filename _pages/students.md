@@ -135,7 +135,7 @@ Indian Institute of Technology, Madras)
     <a href="http://www.afarhadi.com/">Alireza Farhadi</a> (now in industry)
   </li>
   <li>
-    <a href="https://www.cs.princeton.edu/~sixuel/">Cliff Liu</a> (now visiting assistant professor at Emory)
+    <a href="https://www.cs.princeton.edu/~sixuel/">Sixue (Cliff) Liu</a> (now Associate Professor in SJTU)
   </li>
   <li>
     <a href="https://homepages.inf.ed.ac.uk/itseleko/">Yiannis Tselekounis</a> (now Lecturer at the Royal Holloway, University of London)
