@@ -21,8 +21,9 @@ In <strong>SODA</strong>, 2026.
 Zelda: Efficient Multi-server Preprocessing PIR with
 Unconditional Security.
 </strong></font>
-<br>Bo Peng, Ashrujit Ghoshal, Mingxun Zhou, and 
-Elaine Shi. In <strong>IEEE Symposium on Security and Privacy</strong>, 2026.
+<br>Ashrujit Ghoshal, Mingxun Zhou, Bo Peng, and 
+Elaine Shi (randomized author order). 
+In <strong>IEEE Symposium on Security and Privacy</strong>, 2026.
 <br>
 <a href="https://eprint.iacr.org/2025/1340">[Paper]</a>
 <br>
@@ -33,7 +34,7 @@ Elaine Shi. In <strong>IEEE Symposium on Security and Privacy</strong>, 2026.
 <font size="+1"><strong>
 Scalable Multi-Server Private Information Retrieval. </strong></font>
 <br>Ashrujit Ghoshal, Baitian Li, Yaohua Ma,
-Chenxin Dai, and Elaine Shi. In <strong>TCC</strong>, 2025.
+Chenxin Dai, and Elaine Shi (randomized author order). In <strong>TCC</strong>, 2025.
 <br>
 <a href="https://eprint.iacr.org/2024/765">[Paper]</a>
 <br>
