@@ -7,6 +7,17 @@ permalink: /papers/
 <ul>
 <li>
 <font size="+1"><strong>
+Decentralized Data Archival: New Definitions and Constructions. 
+</strong></font>
+<br>
+Elaine Shi, Rose Silver, and Changrui Mu (randomized author order).
+In <strong>Innovations in Theoretical Computer Science (ITCS)</strong>, 2026.
+<br>
+</li>
+
+
+<li>
+<font size="+1"><strong>
  History-Independent Load Balancing.
 </strong></font>
 <br>
