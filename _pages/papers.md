@@ -13,6 +13,8 @@ Decentralized Data Archival: New Definitions and Constructions.
 Elaine Shi, Rose Silver, and Changrui Mu (randomized author order).
 In <strong>Innovations in Theoretical Computer Science (ITCS)</strong>, 2026.
 <br>
+<a href="https://eprint.iacr.org/2025/969.pdf">[Paper]</a>
+<br>
 </li>
 
 
