@@ -1014,7 +1014,6 @@ Constants Count: Practical Improvements to Oblivious RAM. </strong></font>
 <br>Matthew Lentz, Viktor Erdelyi, Paarijaat Aditya, Elaine Shi, Peter Druschel, and Bobby Bhattacharjee. In <strong>Usenix Security</strong> , 2014. 
 <br>
 <a href="http://www.cs.umd.edu/projects/ebn">[Source code]</a> 
-&nbsp;
 <a href="http://www.cs.umd.edu/projects/ebn/sddr_sec2014.pdf">[Paper]
 </a><br>
 </li>
@@ -1080,7 +1079,6 @@ Constants Count: Practical Improvements to Oblivious RAM. </strong></font>
 <br>Andrew Miller, Michael Hicks, Jonathan Katz, and Elaine Shi. In <strong>ACM Symposium on Principles of Programming Languages (POPL)</strong> , 2014. 
 <br>
 <a href="http://amiller.github.io/ads-pl">[Source code]</a>
-&nbsp;
 <a href="http://www.cs.umd.edu/%7Emwh/papers/gpads.pdf">[Paper]</a><br>
 </li>
 <li>
