@@ -85,6 +85,8 @@ Technologies (AFT)</strong>, 2025.
 One-Sided Bounded Noise: Theory, Optimization Algorithms and Applications. </strong></font>
 <br>Hanshen Xiao, Jun Wan, Elaine Shi, and Srini Devadas. In <strong>ACM CCS</strong>, 2025.
 <br>
+<a href="https://elaineshi.com/docs/one_sided_noise.pdf">[Paper]</a>
+<br>
 </li>
 <li>
 <font size="+1"><strong>
@@ -100,7 +102,7 @@ Quasi-Linear Indistinguishability Obfuscation via Mathematical Proofs of Equival
 <br>Yaohua Ma, Chenxin Dai, and Elaine Shi (randomized author order). In <strong>Eurocrypt</strong>, 2025.
 <br>
 <a href="https://eprint.iacr.org/2025/307.pdf">[Paper]</a>
-<a href="https://diffpriv.github.io/elaine/docs/quasilinear-io.pdf">[Slides]</a>
+<a href="https://elaineshi.com/docs/quasilinear-io.pdf">[Slides]</a>
 <br>
 </li>
 <li>
@@ -450,7 +452,7 @@ Perfectly Oblivious (Parallel) RAM Revisited, and Improved Constructions. </stro
 <font size="+1"><strong>
 Viaduct: an Extensible, Optimizing Compiler for Secure Distributed Programs. </strong></font>
 <br>Coşku Acay, Rolph Recto, Joshua Gancher, Andrew C. Myers, and Elaine Shi. In <strong>ACM SIGPLAN Conference on Programming Language Design and Implementation (PLDI)</strong>, 2021.
-<br><a href="https://diffpriv.github.io/elaine/docs/viaduct-tr.pdf">[Paper]
+<br><a href="https://elaineshi.com/docs/viaduct-tr.pdf">[Paper]
 </a><br>
 </li>
 <li>
@@ -576,7 +578,7 @@ Sublinear-Round Byzantine Agreement under Corrupt Majority. </strong></font>
 <font size="+1"><strong>
 KLOTSKI: Efficient Obfuscated Execution against Controlled-Channel Attacks. </strong></font>
 <br>Pan Zhang, Chengyu Song, Heng Yin, Deqing Zou, Elaine Shi, and Hai Jin. In <strong>International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS)</strong>, 2020.
-<br><a href="https://diffpriv.github.io/elaine/docs/asplos20-klotski.pdf">[Paper]
+<br><a href="https://elaineshi.com/docs/asplos20-klotski.pdf">[Paper]
 </a><br>
 </li>
 <li>
@@ -597,7 +599,7 @@ Small Memory Robust Simulation of Client-Server Interactive Protocols over Obliv
 <font size="+1"><strong>
 A Retrospective on Path ORAM. </strong></font>
 <br>Emil Stefanov, Marten van Dijk, Elaine Shi, Christopher Fletcher, Ling Ren, Xiangyao Yu, and Srinivas Devadas. In <strong>IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems</strong>, Volume 39, Issue 8, Aug 2020.
-<br><a href="https://diffpriv.github.io/elaine/docs/pathoram-retro.pdf">[Paper]
+<br><a href="https://elaineshi.com/docs/pathoram-retro.pdf">[Paper]
 </a><br>
 </li>
 <li>
@@ -695,7 +697,7 @@ Lower bounds for external memory integer sorting via network coding. </strong></
 <font size="+1"><strong>
 Path ORAM: An Extremely Simple Oblivious RAM Protocol. </strong></font>
 <br>Emil Stefanov, Marten van Dijk, Elaine Shi, T.-H. Hubert Chan, Christopher W. Fletcher, Ling Ren, Xiangyao Yu, and Srinivas Devadas. In <strong>Journal of the ACM</strong>, 2018.
-<br><a href="https://diffpriv.github.io/elaine/docs/pathoram.pdf">[Paper]
+<br><a href="https://elaineshi.com/docs/pathoram.pdf">[Paper]
 </a><br>
 </li>
 <li>
@@ -940,14 +942,14 @@ Constants Count: Practical Improvements to Oblivious RAM. </strong></font>
 <font size="+1"><strong>
  ObliVM: A Programming Framework for Secure Computation. </strong></font>
 <br>Chang Liu, Xiao Shaun Wang, Kartik Nayak, Yan Huang, and Elaine Shi. In <strong>IEEE Symposium on Security and Privacy (S&amp;P)</strong> , 2015. 
-<br><a href="https://diffpriv.github.io/elaine/docs/oblivm.pdf">[Paper]
+<br><a href="https://elaineshi.com/docs/oblivm.pdf">[Paper]
 </a><br>
 </li>
 <li>
 <font size="+1"><strong>
  GraphSC: Parallel Secure Computation Made Easy. </strong></font>
 <br>Kartik Nayak, Xiao Shaun Wang, Stratis Ioannidis, Udi Weinsberg, Nina Taft, and Elaine Shi. In <strong>IEEE Symposium on Security and Privacy (S&amp;P)</strong> , 2015. 
-<br><a href="https://diffpriv.github.io/elaine/docs/graphsc.pdf">[Paper]
+<br><a href="https://elaineshi.com/docs/graphsc.pdf">[Paper]
 </a><br>
 </li>
 <li>
@@ -989,7 +991,7 @@ Constants Count: Practical Improvements to Oblivious RAM. </strong></font>
 <font size="+1"><strong>
  ShadowCrypt: Encrypted Web Applications for Everyone. </strong></font>
 <br>Warren He, Devdatta Akhawe, Sumeet Jain, Elaine Shi, and Dawn Song. In <strong>ACM Conference on Computer and Communications Security (CCS)</strong> , 2014.
-<br><a href="https://diffpriv.github.io/elaine/docs/shadowcrypt.pdf">[Paper]
+<br><a href="https://elaineshi.com/docs/shadowcrypt.pdf">[Paper]
 </a><br>
 </li>
 <li>
@@ -1003,14 +1005,17 @@ Constants Count: Practical Improvements to Oblivious RAM. </strong></font>
 <font size="+1"><strong>
  Burst ORAM: Minimizing ORAM Response Times for Bursty Access Patterns. </strong></font>
 <br>Jonathan Dautrich, Emil Stefanov, and Elaine Shi. In <strong>Usenix Security</strong> , 2014.
-<br><a href="https://diffpriv.github.io/elaine/docs/burstoram.pdf">[Paper]
+<br><a href="https://elaineshi.com/docs/burstoram.pdf">[Paper]
 </a><br>
 </li>
 <li>
 <font size="+1"><strong>
  SDDR: Light-Weight, Secure Mobile Encounters. </strong></font>
-<br>Matthew Lentz, Viktor Erdelyi, Paarijaat Aditya, Elaine Shi, Peter Druschel, and Bobby Bhattacharjee. In <strong>Usenix Security</strong> , 2014. *** Source code now available on our <a href="http://www.cs.umd.edu/projects/ebn">project webpage</a> .
-<br><a href="http://www.cs.umd.edu/projects/ebn/sddr_sec2014.pdf">[Paper]
+<br>Matthew Lentz, Viktor Erdelyi, Paarijaat Aditya, Elaine Shi, Peter Druschel, and Bobby Bhattacharjee. In <strong>Usenix Security</strong> , 2014. 
+<br>
+<a href="http://www.cs.umd.edu/projects/ebn">Source code</a> 
+&nbsp;
+<a href="http://www.cs.umd.edu/projects/ebn/sddr_sec2014.pdf">[Paper]
 </a><br>
 </li>
 <li>
@@ -1024,21 +1029,21 @@ Constants Count: Practical Improvements to Oblivious RAM. </strong></font>
 <font size="+1"><strong>
  A Secure Computation Framework for Software Defined Networks. </strong></font>
 <br>Nachikethas A. Jagadeesan, Ranjan Pal, Kaushik Nadikuditi, Yan Huang, Minlan Yu, and Elaine Shi. In <strong>ACM SIGCOMM Workshop on Hot Topics in Software Defined Networking (HotSDN poster)</strong> , 2014.
-<br><a href="https://diffpriv.github.io/elaine/docs/hotsdn14-secure.pdf">[Paper]
+<br><a href="https://elaineshi.com/docs/hotsdn14-secure.pdf">[Paper]
 </a><br>
 </li>
 <li>
 <font size="+1"><strong>
  PermaCoin: Repurposing Bitcoin Work for Long-Term Data Preservation. </strong></font>
 <br>Andrew Miller, Ari Juels, Elaine Shi, Bryan Parno, and Jonathan Katz. In <strong>IEEE Symposium on Security and Privacy (S&amp;P)</strong> , 2014.
-<br><a href="https://diffpriv.github.io/elaine/docs/permacoin.pdf">[Paper]
+<br><a href="https://elaineshi.com/docs/permacoin.pdf">[Paper]
 </a><br>
 </li>
 <li>
 <font size="+1"><strong>
  Automating Efficient RAM-Model Secure Computation. </strong></font>
 <br>Chang Liu, Yan Huang, Elaine Shi, Jonathan Katz, and Michael Hicks. In <strong>IEEE Symposium on Security and Privacy (S&amp;P)</strong> , 2014.
-<br><a href="https://diffpriv.github.io/elaine/docs/scvm.pdf">[Paper]
+<br><a href="https://elaineshi.com/docs/scvm.pdf">[Paper]
 </a><br>
 </li>
 <li>
@@ -1066,15 +1071,17 @@ Constants Count: Practical Improvements to Oblivious RAM. </strong></font>
 <font size="+1"><strong>
  Scambaiter: Understanding Targeted Nigerian Scams on Craigslist. </strong></font>
 <br>Youngsam Park, Jackie Jones, Damon McCoy, Elaine Shi, and Markus Jakobsson. In <strong>Network and Distributed System Security Symposium (NDSS)</strong> , 2014. Finalist for the 2014 CSAW Best Applied Security Paper.
-<br><a href="https://diffpriv.github.io/elaine/docs/scambaiter.pdf">[Paper]
+<br><a href="https://elaineshi.com/docs/scambaiter.pdf">[Paper]
 </a><br>
 </li>
 <li>
 <font size="+1"><strong>
  Authenticated Data Structures, Generically. </strong></font>
-<br>Andrew Miller, Michael Hicks, Jonathan Katz, and Elaine Shi. In <strong>ACM Symposium on Principles of Programming Languages (POPL)</strong> , 2014. *** Source code and examples (including red-black tree, skip list, planar separator, and more) now available on our <a href="http://amiller.github.io/ads-pl">project webpage</a> .
-<br><a href="http://www.cs.umd.edu/%7Emwh/papers/gpads.pdf">[Paper]
-</a><br>
+<br>Andrew Miller, Michael Hicks, Jonathan Katz, and Elaine Shi. In <strong>ACM Symposium on Principles of Programming Languages (POPL)</strong> , 2014. 
+<br>
+<a href="http://amiller.github.io/ads-pl">Source code</a>
+&nbsp;
+<a href="http://www.cs.umd.edu/%7Emwh/papers/gpads.pdf">[Paper]</a><br>
 </li>
 <li>
 <font size="+1"><strong>
@@ -1087,21 +1094,21 @@ Constants Count: Practical Improvements to Oblivious RAM. </strong></font>
 <font size="+1"><strong>
  Practical Dynamic Proofs of Retrievability. </strong></font>
 <br>Elaine Shi, Emil Stefanov, and Charalampos Papamanthou. In <strong>ACM Conference on Computer and Communications Security (CCS)</strong> , 2013. UMD Invention of the Year Award.
-<br><a href="https://diffpriv.github.io/elaine/docs/por.pdf">[Paper]
+<br><a href="https://elaineshi/docs/por.pdf">[Paper]
 </a><br>
 </li>
 <li>
 <font size="+1"><strong>
  Path ORAM: An Extremely Simple Oblivious RAM Protocol. </strong></font>
 <br>Emil Stefanov, Marten van Dijk, Elaine Shi, T-H. Hubert Chan, Christopher Fletcher, Ling Ren, Xiangyao Yu, and Srinivas Devadas. In <strong>ACM Conference on Computer and Communications Security (CCS)</strong> , 2013. <strong>Best Student Paper,</strong> <strong>Test of Time Award 2023.</strong>    A simplified version of the proof is now available.
-<br><a href="https://diffpriv.github.io/elaine/docs/pathoram.pdf">[Paper]
+<br><a href="https://elaineshi.com/docs/pathoram.pdf">[Paper]
 </a><br>
 </li>
 <li>
 <font size="+1"><strong>
  PHANTOM: Practical Oblivious Computation in a Secure Processor. </strong></font>
 <br>Martin Maas, Eric Love, Emil Stefanov, Mohit Tiwari, Elaine Shi, Krste Asanovic, John Kubiatowicz, and Dawn Song. In <strong>ACM Conference on Computer and Communications Security (CCS)</strong> , 2013. Finalist for AT&amp;T Best Applied Security Paper Award.
-<br><a href="https://diffpriv.github.io/elaine/docs/phantom.pdf">[Paper]
+<br><a href="https://elaineshi.com/docs/phantom.pdf">[Paper]
 </a><br>
 </li>
 <li>
@@ -1115,21 +1122,21 @@ Constants Count: Practical Improvements to Oblivious RAM. </strong></font>
 <font size="+1"><strong>
  ObliviStore: High Performance Oblivious Cloud Storage. </strong></font>
 <br>Emil Stefanov and Elaine Shi. In <strong>IEEE Symposium on Security and Privacy (S&amp;P)</strong> , 2013. A preliminary version appeared as a short presentation in NDSS, 2013.   Source code is available upon request.
-<br><a href="https://diffpriv.github.io/elaine/docs/ObliviStore.pdf">[Paper]
+<br><a href="https://elaineshi.com/docs/ObliviStore.pdf">[Paper]
 </a><br>
 </li>
 <li>
 <font size="+1"><strong>
  Memory Trace Oblivious Program Execution. </strong></font>
 <br>Chang Liu, Mike Hicks, and Elaine Shi. In <strong>Computer Security Foundations Symposium (CSF)</strong> , 2013. NSA Best Scientific Cybersecurity Paper Award.
-<br><a href="https://diffpriv.github.io/elaine/docs/pl-oram-tr.pdf">[Paper]
+<br><a href="https://elaineshi.com/docs/pl-oram-tr.pdf">[Paper]
 </a><br>
 </li>
 <li>
 <font size="+1"><strong>
  Streaming Authenticated Data Structures. </strong></font>
 <br>Charalampos Papamanthou, Elaine Shi, Roberto Tamassia, and Ke Yi. In <strong>Eurocrypt</strong> , 2013.
-<br><a href="https://diffpriv.github.io/elaine/docs/streaming.pdf">[Paper]
+<br><a href="https://elaineshi.com/docs/streaming.pdf">[Paper]
 </a><br>
 </li>
 <li>
@@ -1150,7 +1157,7 @@ Constants Count: Practical Improvements to Oblivious RAM. </strong></font>
 <font size="+1"><strong>
  Context-Centric Security. </strong></font>
 <br>Mohit Tiwari, Prashanth Mohan, Andrew Osheroff, Hilfi Alkaff, Elaine Shi, Eric Love, Dawn Song, and Krste Asanovic. In <strong>USENIX Workshop on Hot Topics in Security (HotSec)</strong> , 2012.
-<br><a href="https://diffpriv.github.io/elaine/docs/bubbles.pdf">[Paper]
+<br><a href="https://elaineshi.com/docs/bubbles.pdf">[Paper]
 </a><br>
 </li>
 <li>
@@ -1171,7 +1178,7 @@ Constants Count: Practical Improvements to Oblivious RAM. </strong></font>
 <font size="+1"><strong>
  Opaak: Using Mobile Phones to Limit Anonymous Identities Online. </strong></font>
 <br>Gabriel Maganis, Elaine Shi, Hao Chen, Dawn Song. In <strong>International Conference on Mobile Systems, Applications and Services (MobiSys)</strong> , 2012.
-<br><a href="https://diffpriv.github.io/elaine/docs/opaak.pdf">[Paper]
+<br><a href="https://elaineshi.com/docs/opaak.pdf">[Paper]
 </a><br>
 </li>
 <li>
@@ -1185,7 +1192,7 @@ Constants Count: Practical Improvements to Oblivious RAM. </strong></font>
 <font size="+1"><strong>
  GUPT: Privacy Preserving Data Analysis Made Easy. </strong></font>
 <br>Prashanth Mohan, Abhradeep Guha Thakurta, Elaine Shi, Dawn Song, David Culler. In <strong>ACM SIGMOD</strong> , 2012.
-<br><a href="https://diffpriv.github.io/elaine/docs/gupt.pdf">[Paper]
+<br><a href="https://elaineshi.com/docs/gupt.pdf">[Paper]
 </a><br>
 </li>
 <li>
@@ -1199,7 +1206,7 @@ Constants Count: Practical Improvements to Oblivious RAM. </strong></font>
 <font size="+1"><strong>
  Cloud Data Protection for the Masses. </strong></font>
 <br>Dawn Song, Umesh Shankar, Elaine Shi, Ian Fischer. <strong>Invited article at IEEE Computer Magazine, Annual Outlook Issue</strong> , 2012.
-<br><a href="https://diffpriv.github.io/elaine/docs/DPaaS.pdf">[Paper]
+<br><a href="https://elaineshi.com/docs/DPaaS.pdf">[Paper]
 </a><br>
 </li>
 <li>
@@ -1213,7 +1220,7 @@ Constants Count: Practical Improvements to Oblivious RAM. </strong></font>
 <font size="+1"><strong>
  Bitter to Better: How to Make Bitcoin a Better Digital Currency. </strong></font>
 <br>Simon Barber, Xavier Boyen, Elaine Shi, Ersin Uzun. In <strong>Financial Cryptography and Data Security (FC)</strong> , 2012.
-<br><a href="https://diffpriv.github.io/elaine/docs/bitcoin.pdf">[Paper]
+<br><a href="https://elaineshi.com/docs/bitcoin.pdf">[Paper]
 </a><br>
 </li>
 <li>
@@ -1241,21 +1248,21 @@ Constants Count: Practical Improvements to Oblivious RAM. </strong></font>
 <font size="+1"><strong>
  Privacy-Preserving Aggregation of Time-Series Data. </strong></font>
 <br>Elaine Shi, T-H. Hubert Chan, Eleanor Rieffel, Richard Chow, Dawn Song. In <strong>Network and Distributed System Security Symposium (NDSS)</strong> , 2011.
-<br><a href="https://diffpriv.github.io/elaine/docs/ndss2011.pdf">[Paper]
+<br><a href="https://elaineshi.com/docs/ndss2011.pdf">[Paper]
 </a><br>
 </li>
 <li>
 <font size="+1"><strong>
  Do You Know Where Your Data Are? Secure Data Capsules for Deployable Data Protection. </strong></font>
 <br>Petros Maniatis, Devdatta Akhawe, Kevin Fall, Elaine Shi, Stephen McCamant, Dawn Song. In <strong>Workshop on Hot Topics in Operating Systems (HotOS)</strong> , 2011.
-<br><a href="https://diffpriv.github.io/elaine/docs/2011HotOS-Capsules.pdf">[Paper]
+<br><a href="https://elaineshi.com/docs/2011HotOS-Capsules.pdf">[Paper]
 </a><br>
 </li>
 <li>
 <font size="+1"><strong>
  ES-TeV: Efficient and Secure Threshold-based Event Validation for VANETs. </strong></font>
 <br>Hsu-Chun Hsiao, Ahren Studer, Rituik Dubey, Elaine Shi, Adrian Perrig. In <strong>ACM Conference on Wireless Network Security (WiSec)</strong> , 2011.
-<br><a href="https://diffpriv.github.io/elaine/docs/hsiao_wisec2011.pdf">[Paper]
+<br><a href="https://elaineshi.com/docs/hsiao_wisec2011.pdf">[Paper]
 </a><br>
 </li>
 <li>
@@ -1276,161 +1283,161 @@ Constants Count: Practical Improvements to Oblivious RAM. </strong></font>
 <font size="+1"><strong>
  Signatures of Reputation: Towards Trust Without Identity. </strong></font>
 <br>John Bethencourt, Elaine Shi, Dawn Song. In <strong>Financial Cryptography (FC)</strong> , 2010.
-<br><a href="https://diffpriv.github.io/elaine/docs/sigrep.pdf">[Paper]
+<br><a href="https://elaineshi.com/docs/sigrep.pdf">[Paper]
 </a><br>
 </li>
 <li>
 <font size="+1"><strong>
  Implicit Authentication through Learning User Behavior. </strong></font>
 <br>Elaine Shi, Yuan Niu, Markus Jakobsson, Richard Chow. In <strong>Information Security Conference (ISC)</strong> , 2010.
-<br><a href="https://diffpriv.github.io/elaine/docs/isc.pdf">[Paper]
+<br><a href="https://elaineshi.com/docs/isc.pdf">[Paper]
 </a><br>
 </li>
 <li>
 <font size="+1"><strong>
  Authentication in the Clouds: A Framework and its Application to Mobile Users. </strong></font>
 <br>Richard Chow, Markus Jakobsson, Ryusuke Masuoka, Jesus Molina, Yuan Niu, Elaine Shi, Zhexuan Song. In <strong>The ACM Cloud Computing Security Workshop (CCSW)</strong> , 2010.
-<br><a href="https://diffpriv.github.io/elaine/docs/ccsw10.pdf">[Paper]
+<br><a href="https://elaineshi.com/docs/ccsw10.pdf">[Paper]
 </a><br>
 </li>
 <li>
 <font size="+1"><strong>
  One Experience Collecting Sensitive Mobile Data. </strong></font>
 <br>Yuan Niu, Elaine Shi, Richard Chow, Philippe Golle, Markus Jakobsson. In <strong>Usable Security Experiment Reports (USER) Workshop</strong> , 2010.
-<br><a href="https://diffpriv.github.io/elaine/docs/users.pdf">[Paper]
+<br><a href="https://elaineshi.com/docs/users.pdf">[Paper]
 </a><br>
 </li>
 <li>
 <font size="+1"><strong>
  Predicate Privacy in Encryption Systems. </strong></font>
 <br>Emily Shen, Elaine Shi, Brent Waters. In <strong>Theory of Cryptography Conference (TCC)</strong> , 2009.
-<br><a href="https://diffpriv.github.io/elaine/docs/sympredenc.pdf">[Paper]
+<br><a href="https://elaineshi.com/docs/sympredenc.pdf">[Paper]
 </a><br>
 </li>
 <li>
 <font size="+1"><strong>
  Controlling data in the cloud: outsourcing computation without outsourcing control. </strong></font>
 <br>Richard Chow, Philippe Golle, Markus Jakobsson, Ryusuke Masuoka, Jesus Molina, Elaine Shi, Jessica Staddon. In <strong>ACM workshop on Cloud computing security (CCSW)</strong> , 2009.
-<br><a href="https://diffpriv.github.io/elaine/docs/ccsw.pdf">[Paper]
+<br><a href="https://elaineshi.com/docs/ccsw.pdf">[Paper]
 </a><br>
 </li>
 <li>
 <font size="+1"><strong>
  Implicit Authentication for Mobile Devices. </strong></font>
 <br>Markus Jakobsson, Elaine Shi, Philippe Golle, Richard Chow. In <strong>USENIX Workshop on Hot Topics in Security (HotSec)</strong> , 2009.
-<br><a href="https://diffpriv.github.io/elaine/docs/implauth.pdf">[Paper]
+<br><a href="https://elaineshi.com/docs/implauth.pdf">[Paper]
 </a><br>
 </li>
 <li>
 <font size="+1"><strong>
  TACKing Together Efficient Authentication, Revocation, and Privacy in VANETs. </strong></font>
 <br>Ahren Studer, Elaine Shi, Fan Bai, Adrian Perrig. In <strong>IEEE Communications Society Conference on Sensor, Mesh and Ad Hoc Communications and Networks (SECON)</strong> , 2009.
-<br><a href="https://diffpriv.github.io/elaine/docs/tacks.pdf">[Paper]
+<br><a href="https://elaineshi.com/docs/tacks.pdf">[Paper]
 </a><br>
 </li>
 <li>
 <font size="+1"><strong>
  Is it too late for PAKE? </strong></font>
 <br>John Engler, Chris Karlof, Elaine Shi, Dawn Song. In <strong>Web 2.0 Security and Privacy (W2SP)</strong> , 2009.
-<br><a href="https://diffpriv.github.io/elaine/docs/pakeweb.pdf">[Paper]
+<br><a href="https://elaineshi.com/docs/pakeweb.pdf">[Paper]
 </a><br>
 </li>
 <li>
 <font size="+1"><strong>
  Delegating Capabilities in Predicate Encryption Systems. </strong></font>
 <br>Elaine Shi, Brent Waters. In <strong>International Colloquium on Automata, Languages and Programming (ICALP)</strong> , 2008.
-<br><a href="https://diffpriv.github.io/elaine/docs/delegation.pdf">[Paper]
+<br><a href="https://elaineshi.com/docs/delegation.pdf">[Paper]
 </a><br>
 </li>
 <li>
 <font size="+1"><strong>
  Multi-Dimensional Range Query over Encrypted Data. </strong></font>
 <br><strong>Technical report version (full version) : <a href="docs/rangequery.ps">CMU-CS-06-135R, May 2006</a></strong>
-<br><a href="https://diffpriv.github.io/elaine/docs/rangequery_oakland.pdf">[Paper]
+<br><a href="https://elaineshi.com/docs/rangequery_oakland.pdf">[Paper]
 </a><br>
 </li>
 <li>
 <font size="+1"><strong>
  Portcullis: Protecting Connection Setup from Denial-of-Capability Attacks. </strong></font>
 <br>Bryan Parno, Dan Wendlandt, Elaine Shi, Adrian Perrig, Bruce Maggs, Yih-Chun Hu. In <strong>ACM SIGCOMM</strong> , 2007.
-<br><a href="https://diffpriv.github.io/elaine/docs/portcullis.pdf">[Paper]
+<br><a href="https://elaineshi.com/docs/portcullis.pdf">[Paper]
 </a><br>
 </li>
 <li>
 <font size="+1"><strong>
  OverDoSe: A Generic DDoS Protection Service Using an Overlay Network. </strong></font>
 <br>Elaine Shi, Ion Stoica, David Andersen, Adrian Perrig. Technical report, CMU-CS-06-114, February, 2006.
-<br><a href="https://diffpriv.github.io/elaine/docs/overdose.ps">[Paper]
+<br><a href="https://elaineshi.com/docs/overdose.ps">[Paper]
 </a><br>
 </li>
 <li>
 <font size="+1"><strong>
  Pioneer: Verifying Integrity and Guaranteeing Execution of Code on Legacy Platforms. </strong></font>
 <br>Arvind Seshadri, Mark Luk, Elaine Shi, Adrian Perrig, Leendert Van Doorn, Pradeep Khosla. In <strong>Proceedings of the ACM Symposium on Operating Systems Principles (SOSP)</strong> , October, 2005.
-<br><a href="https://diffpriv.github.io/elaine/docs/pioneer.pdf">[Paper]
+<br><a href="https://elaineshi.com/docs/pioneer.pdf">[Paper]
 </a><br>
 </li>
 <li>
 <font size="+1"><strong>
  BIND: A Fine-grained Attestation Service for Secure Distributed Systems. </strong></font>
 <br>Elaine Shi, Adrian Perrig, Leendert Van Doorn. In <strong>Proceedings of the IEEE Symposium on Security and Privacy (Oakland)</strong> , May, 2005.
-<br><a href="https://diffpriv.github.io/elaine/docs/bind.pdf">[Paper]
+<br><a href="https://elaineshi.com/docs/bind.pdf">[Paper]
 </a><br>
 </li>
 <li>
 <font size="+1"><strong>
  Detection of Denial-of-Message Attacks on Sensor Network Broadcasts. </strong></font>
 <br>Jonathan McCune, Elaine Shi, Adrian Perrig, Mike Reiter. In <strong>Proceedings of the IEEE Symposium on Security and Privacy (Oakland)</strong> , May, 2005.
-<br><a href="https://diffpriv.github.io/elaine/docs/dom.pdf">[Paper]
+<br><a href="https://elaineshi.com/docs/dom.pdf">[Paper]
 </a><br>
 </li>
 <li>
 <font size="+1"><strong>
  The Sybil Attack in Sensor Networks: Analysis and Defense. </strong></font>
 <br>James Newsome, Elaine Shi, Dawn Song, Adrian Perrig. In <strong>Proceedings of Information Processing in Sensor Networks (IPSN)</strong> , April, 2004.
-<br><a href="https://diffpriv.github.io/elaine/docs/sybil.pdf">[Paper]
+<br><a href="https://elaineshi.com/docs/sybil.pdf">[Paper]
 </a><br>
 </li>
 <li>
 <font size="+1"><strong>
  Designing Secure Sensor Networks. </strong></font>
 <br>Elaine Shi, Adrian Perrig. In <strong>IEEE Wireless Communications</strong> , Volume 11, Issue 6, December, 2004.
-<br><a href="https://diffpriv.github.io/elaine/docs/securesensornet.pdf">[Paper]
+<br><a href="https://elaineshi.com/docs/securesensornet.pdf">[Paper]
 </a><br>
 </li>
 <li>
 <font size="+1"><strong>
  The Smart Classroom: Merging Technologies for Seamless Tele-education. </strong></font>
 <br>Yuanchun Shi, Weikai Xie, Guangyou Xu, Runting Shi, Enyi Chen, Yanhua Mao, Fang Liu. In <strong>IEEE Pervasive Computing</strong> , Volume 2, Issue 2, 2003.
-<br><a href="https://diffpriv.github.io/elaine/docs/smartclassroom.pdf">[Paper]
+<br><a href="https://elaineshi.com/docs/smartclassroom.pdf">[Paper]
 </a><br>
 </li>
 <li>
 <font size="+1"><strong>
  TORM: a hybrid multicast infrastructure for interactive distance learning. </strong></font>
 <br>Yi Che, Runting Shi, Yuanchun Shi. In <strong>IEEE International Conference on Multimedia and Expo (ICME)</strong> , 2004.
-<br><a href="https://diffpriv.github.io/elaine/docs/torm.pdf">[Paper]
+<br><a href="https://elaineshi.com/docs/torm.pdf">[Paper]
 </a><br>
 </li>
 <li>
 <font size="+1"><strong>
  SameView: A Large-Scale Real-Time Interactive E-learning System Based on TORM and AMTP. </strong></font>
 <br>Yi Che, Runting Shi, Yuanchun Shi, Guangyou Xu. In <strong>Proceedings of International Conference on Web-Based Learning (ICWL)</strong> , 2003.
-<br><a href="https://diffpriv.github.io/elaine/docs/sameview.pdf">[Paper]
+<br><a href="https://elaineshi.com/docs/sameview.pdf">[Paper]
 </a><br>
 </li>
 <li>
 <font size="+1"><strong>
  A Novel Stream Merging Algorithm for VOD Servers. </strong></font>
 <br>Runting Shi, Ling Shao, Yunzhang Pei and Dong Xie. In <strong>Proceedings of IEEE Pacific-Rim Conference On Multimedia</strong> , 2003.
-<br><a href="https://diffpriv.github.io/elaine/docs/vod2.pdf">[Paper]
+<br><a href="https://elaineshi.com/docs/vod2.pdf">[Paper]
 </a><br>
 </li>
 <li>
 <font size="+1"><strong>
  A Peer-to-peer True VOD System by Hierarchy Merge. </strong></font>
 <br>Guohui Lin, Runting Shi, Ling Shao, Pei Yunzhang and Dong Xie. In <strong>Proceedings of International Workshop on Grid and Cooperative Computing (GCC)</strong> , 2002.
-<br><a href="https://diffpriv.github.io/elaine/docs/vod1.pdf">[Paper]
+<br><a href="https://elaineshi.com/docs/vod1.pdf">[Paper]
 </a><br>
 </li>
 </ul>
