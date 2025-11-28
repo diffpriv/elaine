@@ -14,7 +14,7 @@ Current Students
 
 <ul>
 <li>
-<a href="https://csd.cmu.edu/people/doctoral-student/andrew-krapivin">
+<a href="https://andrewkrapivin.net/">
 Andrew Krapivin
 </a>  (co-advised with William Kuszmaul) 
 </li>
