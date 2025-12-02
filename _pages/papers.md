@@ -1350,7 +1350,7 @@ Constants Count: Practical Improvements to Oblivious RAM. </strong></font>
 <li>
 <font size="+1"><strong>
  Multi-Dimensional Range Query over Encrypted Data. </strong></font>
-<br><strong>Technical report version (full version) : <a href="docs/rangequery.ps">CMU-CS-06-135R, May 2006</a></strong>
+<br><strong>Technical report version (full version) : <a href="http://reports-archive.adm.cs.cmu.edu/anon/2006/CMU-CS-06-135.pdf">CMU-CS-06-135R, May 2006</a></strong>
 <br><a href="https://elaineshi.com/docs/rangequery_oakland.pdf">[Paper]
 </a><br>
 </li>
