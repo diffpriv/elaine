@@ -956,7 +956,7 @@ Constants Count: Practical Improvements to Oblivious RAM. </strong></font>
 <font size="+1"><strong>
  GhostRider: A Hardware-Software System for Memory Trace Oblivious Computation. </strong></font>
 <br>Chang Liu, Michael Hicks, Austin Harris, Mohit Tiwari, Martin Maas, and Elaine Shi. In <strong>International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS)</strong> , 2015. Best Paper Award.
-<br><a href="http://www.cs.umd.edu/%7Eelaine/">[Paper]
+<br><a href="https://elaineshi.com/docs/ghostrider.pdf">[Paper]
 </a><br>
 </li>
 <li>
