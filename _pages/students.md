@@ -44,17 +44,17 @@ Rose Silver</a>
 <li>
 Tianyao Gu
 </li>
+
+<li>
+<a href="https://andyp223.github.io/">
+Andrew Park</a>
+</li>
 </ul>
 
 
 <b> On leave </b>
 
 <ul>
-<li>
-<a href="https://andyp223.github.io/">
-Andrew Park</a> (co-advised with Wenting Zheng, on leave in MongoDB)
-</li>
-
 <li>
 Afonso Tinoco (on leave in Oblivious Labs)
 </li>
