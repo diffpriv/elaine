@@ -32,11 +32,6 @@ Yue Yang</a>
 </li>
 
 <li>
-<a href="https://nikhilvanjani.github.io/">
-Nikhil Vanjani</a> 
-</li>
-
-<li>
 <a href="https://rosesilver.github.io/">
 Rose Silver</a>
 </li>
@@ -87,7 +82,14 @@ Past students
 <br>
 <b> Ph.D. students </b>
 
+
 <ul>
+
+<li>
+<a href="https://nikhilvanjani.github.io/">
+Nikhil Vanjani</a> (now in industry) 
+</li>
+
 <li>
 <a href="https://www.cs.cornell.edu/~byc/">
 Benjamin Chan</a> (now in industry, co-advised with Rafael Pass)
