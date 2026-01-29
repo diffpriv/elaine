@@ -87,7 +87,7 @@ Past students
 
 <li>
 <a href="https://nikhilvanjani.github.io/">
-Nikhil Vanjani</a> (now in industry) 
+Nikhil Vanjani</a> (now researcher in Babylon Labs) 
 </li>
 
 <li>
