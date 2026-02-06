@@ -37,7 +37,8 @@ Rose Silver</a>
 </li>
 
 <li>
-Tianyao Gu
+<a href="https://gty929.github.io/">
+Tianyao Gu</a>
 </li>
 
 <li>
