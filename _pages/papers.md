@@ -7,6 +7,15 @@ permalink: /papers/
 <ul>
 <li>
 <font size="+1"><strong>
+Zebra: Arithmetic Garbled RAM for Large Words from DCR.
+</strong></font>
+<br>Tianyao Gu, Ashrujit Ghoshal, and Elaine Shi.
+In <strong>Eurocrypt</strong>, 2026.
+<br>
+</li>
+
+<li>
+<font size="+1"><strong>
 Decentralized Data Archival: New Definitions and Constructions. 
 </strong></font>
 <br>
@@ -41,6 +50,17 @@ In <strong>IEEE Symposium on Security and Privacy</strong>, 2026.
 <a href="https://eprint.iacr.org/2025/1340">[Paper]</a>
 <br>
 </li>
+
+<li>
+<font size="+1"><strong>
+Distributed Synthesis of Differentially Private Tabular Datasets. 
+</strong></font>
+<br>Yucheng Fu, Tianyao Gu, Elaine Shi, Tianhao Wang.
+In <strong>Usenix Security</strong>, 2026.
+<br>
+</li>
+
+
 
 
 <li>
