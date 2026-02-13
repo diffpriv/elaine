@@ -35,6 +35,8 @@ In <strong>Innovations in Theoretical Computer Science (ITCS)</strong>, 2026.
 Michael Bender, William Kuszmaul, Elaine Shi, and Rose Silver.
 In <strong>SODA</strong>, 2026.
 <br>
+<a href="https://arxiv.org/abs/2602.11953">[Paper]</a>
+<br>
 </li>
 
 
