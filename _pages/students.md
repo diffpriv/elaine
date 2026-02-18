@@ -67,9 +67,6 @@ Hanjun Li</a>
 <li>
 <a href="https://www.andrew.cmu.edu/user/elisawem/">
 Elisaweta Masserova</a>
-<br>
-<br>
-<br>
 </li>
 <li>
 <a href="https://mengqianzhang.me/">
@@ -78,8 +75,6 @@ Mengqian Zhang</a>
 <br>
 <br>
 </li>
-
-
 </ul>
 
 
