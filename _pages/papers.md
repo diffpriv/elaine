@@ -12,6 +12,8 @@ Zebra: Arithmetic Garbled RAM for Large Words from DCR.
 <br>Tianyao Gu, Ashrujit Ghoshal, and Elaine Shi.
 In <strong>Eurocrypt</strong>, 2026.
 <br>
+<a href="https://eprint.iacr.org/2026/345.pdf">[Paper]</a>
+<br>
 </li>
 
 <li>
