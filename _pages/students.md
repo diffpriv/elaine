@@ -21,7 +21,7 @@ Andrew Krapivin
 
 
 <li>
-<a href="https://csd.cs.cmu.edu/people/doctoral-student/changrui-mu">
+<a href="https://changrui-mu.github.io/">
 Changrui Mu</a> 
 </li>
 
