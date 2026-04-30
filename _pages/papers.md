@@ -62,6 +62,8 @@ Distributed Synthesis of Differentially Private Tabular Datasets.
 <br>Yucheng Fu, Tianyao Gu, Elaine Shi, Tianhao Wang.
 In <strong>Usenix Security</strong>, 2026.
 <br>
+<a href="https://www.usenix.org/system/files/conference/usenixsecurity26/sec26_prepub_fu.pdf">[Paper]</a>
+<br>
 </li>
 
 
