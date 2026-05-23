@@ -7,17 +7,6 @@ permalink: /papers/
 <ul>
 <li>
 <font size="+1"><strong>
-Zebra: Arithmetic Garbled RAM for Large Words from DCR.
-</strong></font>
-<br>Tianyao Gu, Ashrujit Ghoshal, and Elaine Shi.
-In <strong>Eurocrypt</strong>, 2026.
-<br>
-<a href="https://eprint.iacr.org/2026/345.pdf">[Paper]</a>
-<br>
-</li>
-
-<li>
-<font size="+1"><strong>
 Dishonest Majority Multi-Party Arithmetic Garbling with Constant Rate.
 </strong></font>
 <br>
@@ -33,6 +22,18 @@ Oblivious Priority Queue and Single-Source Shortest Path in the External-Memory 
 <br>
 Arya Maheshwari and Elaine Shi
 In <strong>CRYPTO</strong>, 2026.
+<br>
+</li>
+
+
+<li>
+<font size="+1"><strong>
+Zebra: Arithmetic Garbled RAM for Large Words from DCR.
+</strong></font>
+<br>Tianyao Gu, Ashrujit Ghoshal, and Elaine Shi.
+In <strong>Eurocrypt</strong>, 2026.
+<br>
+<a href="https://eprint.iacr.org/2026/345.pdf">[Paper]</a>
 <br>
 </li>
 
