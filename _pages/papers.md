@@ -52,6 +52,20 @@ In <strong>International Conference on Machine Learning (ICML)</strong>, 2026.
 
 <li>
 <font size="+1"><strong>
+A Trilemma in AMM Mechanism Design.
+</strong></font>
+<br>
+Yuhao Li, Elaine Shi, and Mengqian Zhang (randomized author order).
+In <strong>Financial Cryptography and Data Security (FC)</strong>, 2026.
+<br>
+<a href="https://fc26.ifca.ai/preproceedings/216.pdf">[Paper]</a>
+<br>
+</li>
+
+
+
+<li>
+<font size="+1"><strong>
 Decentralized Data Archival: New Definitions and Constructions. 
 </strong></font>
 <br>
