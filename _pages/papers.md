@@ -20,7 +20,7 @@ In <strong>CRYPTO</strong>, 2026.
 Oblivious Priority Queue and Single-Source Shortest Path in the External-Memory Setting.
 </strong></font>
 <br>
-Arya Maheshwari and Elaine Shi
+Arya Maheshwari and Elaine Shi.
 In <strong>CRYPTO</strong>, 2026.
 <br>
 </li>
