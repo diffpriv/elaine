@@ -18,6 +18,39 @@ In <strong>Eurocrypt</strong>, 2026.
 
 <li>
 <font size="+1"><strong>
+Dishonest Majority Multi-Party Arithmetic Garbling with Constant Rate.
+</strong></font>
+<br>
+Tianyao Gu, Hanjun Li, and Elaine Shi. 
+In <strong>CRYPTO</strong>, 2026.
+<br>
+</li>
+
+<li>
+<font size="+1"><strong>
+Oblivious Priority Queue and Single-Source Shortest Path in the External-Memory Setting.
+</strong></font>
+<br>
+Arya Maheshwari and Elaine Shi
+In <strong>CRYPTO</strong>, 2026.
+<br>
+</li>
+
+
+<li>
+<font size="+1"><strong>
+Continual Learning With Participation Privacy: An Auditable
+Buffering-Aggregation Recipe. 
+</strong></font>
+<br>
+T-H. Hubert Chan, Elaine Shi, Mengshi Zhao, and Mingxun Zhou. 
+In <strong>International Conference on Machine Learning (ICML)</strong>, 2026.
+<br>
+</li>
+
+
+<li>
+<font size="+1"><strong>
 Decentralized Data Archival: New Definitions and Constructions. 
 </strong></font>
 <br>
