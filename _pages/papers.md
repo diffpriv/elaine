@@ -379,7 +379,7 @@ Differentially Oblivious Relational Database Operators. </strong></font>
 <font size="+1"><strong>
 Multi-Client Inner Product Encryption: Function-Hiding Instantiations Without Random Oracles. </strong></font>
 <br>Elaine Shi and Nikhil Vanjani (randomized author order). In <strong>International Conference on Practice and Theory of Public-Key Cryptography (PKC)</strong>, 2023.
-<br><a href="">[Paper]
+<br><a href="https://eprint.iacr.org/2023/615.pdf">[Paper]
 </a><br>
 </li>
 <li>
