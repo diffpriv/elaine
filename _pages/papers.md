@@ -13,6 +13,8 @@ Dishonest Majority Multi-Party Arithmetic Garbling with Constant Rate.
 Tianyao Gu, Hanjun Li, and Elaine Shi. 
 In <strong>CRYPTO</strong>, 2026.
 <br>
+<a href="https://eprint.iacr.org/2026/1105">[Paper]</a>
+<br>
 </li>
 
 <li>
