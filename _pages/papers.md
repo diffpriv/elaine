@@ -58,7 +58,7 @@ A Trilemma in AMM Mechanism Design.
 Yuhao Li, Elaine Shi, and Mengqian Zhang (randomized author order).
 In <strong>Financial Cryptography and Data Security (FC)</strong>, 2026.
 <br>
-<a href="https://fc26.ifca.ai/preproceedings/216.pdf">[Paper]</a>
+<a href="https://arxiv.org/abs/2605.27602">[Paper]</a>
 <br>
 </li>
 
