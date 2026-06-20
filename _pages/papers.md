@@ -25,6 +25,8 @@ Oblivious Priority Queue and Single-Source Shortest Path in the External-Memory 
 Arya Maheshwari and Elaine Shi.
 In <strong>CRYPTO</strong>, 2026.
 <br>
+<a href="https://eprint.iacr.org/2026/1285.pdf">[Paper]</a>
+<br>
 </li>
 
 
