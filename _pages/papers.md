@@ -5,6 +5,18 @@ permalink: /papers/
 
 
 <ul>
+
+<li>
+<font size="+1"><strong>
+Multi-Party Distributed Point Functions, Revisited.
+</strong></font>
+<br>
+Elaine Shi, Tianyao Gu, Xuanye Zhang, Yue Yang, Yiping Liu, Yucheng Fu (randomized author order).
+In <strong>TCC</strong>, 2026.
+<br>
+</li>
+
+
 <li>
 <font size="+1"><strong>
 Dishonest Majority Multi-Party Arithmetic Garbling with Constant Rate.
